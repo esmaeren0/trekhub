@@ -2,7 +2,7 @@ import requests
 import time
 import csv
 
-API_KEY = "AIzaSyDOwMT8BDo-u9s-782xwSWWsUVIrIoyQLo"  # Google Places API key
+API_KEY = "Google Places API key"
 
 # İstanbul koordinat sınırları
 LAT_MIN = 40.80
